@@ -31,11 +31,11 @@ namespace AnonIncomeComparison
             // prints annual salaries of both anon persons
 
             Console.WriteLine("\n\nAnnual Salary for PERSON 1: ");
-            decimal oneYearly = personOneHourly * personOneWorked;
+            decimal oneYearly = personOneHourly * personOneWorked * 52;
             Console.WriteLine("$" + oneYearly.ToString());
 
             Console.WriteLine("\n\nAnnual Salary for PERSON 2: ");
-            decimal twoYearly = personTwoHourly * personTwoWorked;
+            decimal twoYearly = personTwoHourly * personTwoWorked * 52;
             Console.WriteLine("$" + twoYearly.ToString());
 
             // compares their salaries and displays the final results
