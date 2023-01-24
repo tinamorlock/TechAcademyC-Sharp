@@ -24,12 +24,12 @@ namespace TechAcademyDailyReport
             // asks what page student is on
 
             Console.WriteLine("What page number are you on?");
-            string studentPageNum = Console.ReadLine();
+            int studentPageNum = Convert.ToInt32(Console.ReadLine());
 
             // asks if student needs help
 
             Console.WriteLine("Do you need help with anything? Please answer \"true\" or \"false.\"");
-            string studentHelp = Console.ReadLine();
+            bool studentHelp = Convert.ToBoolean(Console.ReadLine());
 
             // asks about positive experiences
 
@@ -44,7 +44,7 @@ namespace TechAcademyDailyReport
             // asks how many hours student studied
 
             Console.WriteLine("How many hours did you study today?");
-            string studentStudied = Console.ReadLine();
+            int studentStudied = Convert.ToInt32(Console.ReadLine());
 
             // thank you message shown on screen
 
