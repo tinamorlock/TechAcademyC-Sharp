@@ -1,0 +1,8 @@
+C:\Users\tinam\OneDrive\Desktop\Basic_C#_Programs\MathPractice\MathPractice\bin\Debug\MathPractice.exe.config
+C:\Users\tinam\OneDrive\Desktop\Basic_C#_Programs\MathPractice\MathPractice\bin\Debug\MathPractice.exe
+C:\Users\tinam\OneDrive\Desktop\Basic_C#_Programs\MathPractice\MathPractice\bin\Debug\MathPractice.pdb
+C:\Users\tinam\OneDrive\Desktop\Basic_C#_Programs\MathPractice\MathPractice\obj\Debug\MathPractice.csproj.AssemblyReference.cache
+C:\Users\tinam\OneDrive\Desktop\Basic_C#_Programs\MathPractice\MathPractice\obj\Debug\MathPractice.csproj.SuggestedBindingRedirects.cache
+C:\Users\tinam\OneDrive\Desktop\Basic_C#_Programs\MathPractice\MathPractice\obj\Debug\MathPractice.csproj.CoreCompileInputs.cache
+C:\Users\tinam\OneDrive\Desktop\Basic_C#_Programs\MathPractice\MathPractice\obj\Debug\MathPractice.exe
+C:\Users\tinam\OneDrive\Desktop\Basic_C#_Programs\MathPractice\MathPractice\obj\Debug\MathPractice.pdb
