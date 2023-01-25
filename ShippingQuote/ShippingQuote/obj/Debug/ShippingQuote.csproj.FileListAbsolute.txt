@@ -1,0 +1,8 @@
+C:\Users\tinam\OneDrive\Documents\GitHub\TechAcademyC-Sharp\ShippingQuote\ShippingQuote\bin\Debug\ShippingQuote.exe.config
+C:\Users\tinam\OneDrive\Documents\GitHub\TechAcademyC-Sharp\ShippingQuote\ShippingQuote\bin\Debug\ShippingQuote.exe
+C:\Users\tinam\OneDrive\Documents\GitHub\TechAcademyC-Sharp\ShippingQuote\ShippingQuote\bin\Debug\ShippingQuote.pdb
+C:\Users\tinam\OneDrive\Documents\GitHub\TechAcademyC-Sharp\ShippingQuote\ShippingQuote\obj\Debug\ShippingQuote.csproj.AssemblyReference.cache
+C:\Users\tinam\OneDrive\Documents\GitHub\TechAcademyC-Sharp\ShippingQuote\ShippingQuote\obj\Debug\ShippingQuote.csproj.SuggestedBindingRedirects.cache
+C:\Users\tinam\OneDrive\Documents\GitHub\TechAcademyC-Sharp\ShippingQuote\ShippingQuote\obj\Debug\ShippingQuote.csproj.CoreCompileInputs.cache
+C:\Users\tinam\OneDrive\Documents\GitHub\TechAcademyC-Sharp\ShippingQuote\ShippingQuote\obj\Debug\ShippingQuote.exe
+C:\Users\tinam\OneDrive\Documents\GitHub\TechAcademyC-Sharp\ShippingQuote\ShippingQuote\obj\Debug\ShippingQuote.pdb
