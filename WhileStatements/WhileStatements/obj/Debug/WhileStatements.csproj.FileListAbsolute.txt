@@ -1,0 +1,8 @@
+C:\Users\tinam\OneDrive\Documents\GitHub\TechAcademyC-Sharp\WhileStatements\WhileStatements\bin\Debug\WhileStatements.exe.config
+C:\Users\tinam\OneDrive\Documents\GitHub\TechAcademyC-Sharp\WhileStatements\WhileStatements\bin\Debug\WhileStatements.exe
+C:\Users\tinam\OneDrive\Documents\GitHub\TechAcademyC-Sharp\WhileStatements\WhileStatements\bin\Debug\WhileStatements.pdb
+C:\Users\tinam\OneDrive\Documents\GitHub\TechAcademyC-Sharp\WhileStatements\WhileStatements\obj\Debug\WhileStatements.csproj.AssemblyReference.cache
+C:\Users\tinam\OneDrive\Documents\GitHub\TechAcademyC-Sharp\WhileStatements\WhileStatements\obj\Debug\WhileStatements.csproj.SuggestedBindingRedirects.cache
+C:\Users\tinam\OneDrive\Documents\GitHub\TechAcademyC-Sharp\WhileStatements\WhileStatements\obj\Debug\WhileStatements.csproj.CoreCompileInputs.cache
+C:\Users\tinam\OneDrive\Documents\GitHub\TechAcademyC-Sharp\WhileStatements\WhileStatements\obj\Debug\WhileStatements.exe
+C:\Users\tinam\OneDrive\Documents\GitHub\TechAcademyC-Sharp\WhileStatements\WhileStatements\obj\Debug\WhileStatements.pdb
