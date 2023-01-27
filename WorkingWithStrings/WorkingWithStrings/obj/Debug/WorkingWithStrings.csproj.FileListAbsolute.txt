@@ -1,0 +1,8 @@
+C:\Users\tinam\OneDrive\Documents\GitHub\TechAcademyC-Sharp\WorkingWithStrings\WorkingWithStrings\bin\Debug\WorkingWithStrings.exe.config
+C:\Users\tinam\OneDrive\Documents\GitHub\TechAcademyC-Sharp\WorkingWithStrings\WorkingWithStrings\bin\Debug\WorkingWithStrings.exe
+C:\Users\tinam\OneDrive\Documents\GitHub\TechAcademyC-Sharp\WorkingWithStrings\WorkingWithStrings\bin\Debug\WorkingWithStrings.pdb
+C:\Users\tinam\OneDrive\Documents\GitHub\TechAcademyC-Sharp\WorkingWithStrings\WorkingWithStrings\obj\Debug\WorkingWithStrings.csproj.AssemblyReference.cache
+C:\Users\tinam\OneDrive\Documents\GitHub\TechAcademyC-Sharp\WorkingWithStrings\WorkingWithStrings\obj\Debug\WorkingWithStrings.csproj.SuggestedBindingRedirects.cache
+C:\Users\tinam\OneDrive\Documents\GitHub\TechAcademyC-Sharp\WorkingWithStrings\WorkingWithStrings\obj\Debug\WorkingWithStrings.csproj.CoreCompileInputs.cache
+C:\Users\tinam\OneDrive\Documents\GitHub\TechAcademyC-Sharp\WorkingWithStrings\WorkingWithStrings\obj\Debug\WorkingWithStrings.exe
+C:\Users\tinam\OneDrive\Documents\GitHub\TechAcademyC-Sharp\WorkingWithStrings\WorkingWithStrings\obj\Debug\WorkingWithStrings.pdb
