@@ -106,7 +106,7 @@ namespace SixPartAssignment
 
             for (int q = 0; q < uniqueList.Count; q++) 
             {
-                if (uniqueList[q].Contains(searchNames)) 
+                if (uniqueList[q].Contains(searchNames) && searchNames != "") 
                 {
                     Console.WriteLine("Your name is located at uniqueList[" + q + "].");
                     Console.ReadLine();
@@ -152,7 +152,7 @@ namespace SixPartAssignment
 
             for (int b = 0; b < identicalList.Count; b++)
             {
-                if (identicalList[b].Contains(searchStates))
+                if (identicalList[b].Contains(searchStates) && searchStates != "")
                 {
                     Console.WriteLine("Your state is located at identicalList[" + b + "].");
                     checkStates++;
