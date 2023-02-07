@@ -1,0 +1,8 @@
+C:\Users\tinam\OneDrive\Documents\GitHub\TechAcademyC-Sharp\OptionalMethod\OptionalMethod\bin\Debug\OptionalMethod.exe.config
+C:\Users\tinam\OneDrive\Documents\GitHub\TechAcademyC-Sharp\OptionalMethod\OptionalMethod\bin\Debug\OptionalMethod.exe
+C:\Users\tinam\OneDrive\Documents\GitHub\TechAcademyC-Sharp\OptionalMethod\OptionalMethod\bin\Debug\OptionalMethod.pdb
+C:\Users\tinam\OneDrive\Documents\GitHub\TechAcademyC-Sharp\OptionalMethod\OptionalMethod\obj\Debug\OptionalMethod.csproj.AssemblyReference.cache
+C:\Users\tinam\OneDrive\Documents\GitHub\TechAcademyC-Sharp\OptionalMethod\OptionalMethod\obj\Debug\OptionalMethod.csproj.SuggestedBindingRedirects.cache
+C:\Users\tinam\OneDrive\Documents\GitHub\TechAcademyC-Sharp\OptionalMethod\OptionalMethod\obj\Debug\OptionalMethod.csproj.CoreCompileInputs.cache
+C:\Users\tinam\OneDrive\Documents\GitHub\TechAcademyC-Sharp\OptionalMethod\OptionalMethod\obj\Debug\OptionalMethod.exe
+C:\Users\tinam\OneDrive\Documents\GitHub\TechAcademyC-Sharp\OptionalMethod\OptionalMethod\obj\Debug\OptionalMethod.pdb
