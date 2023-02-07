@@ -1,0 +1,8 @@
+C:\Users\tinam\OneDrive\Documents\GitHub\TechAcademyC-Sharp\MainMethod\MainMethod\bin\Debug\MainMethod.exe.config
+C:\Users\tinam\OneDrive\Documents\GitHub\TechAcademyC-Sharp\MainMethod\MainMethod\bin\Debug\MainMethod.exe
+C:\Users\tinam\OneDrive\Documents\GitHub\TechAcademyC-Sharp\MainMethod\MainMethod\bin\Debug\MainMethod.pdb
+C:\Users\tinam\OneDrive\Documents\GitHub\TechAcademyC-Sharp\MainMethod\MainMethod\obj\Debug\MainMethod.csproj.AssemblyReference.cache
+C:\Users\tinam\OneDrive\Documents\GitHub\TechAcademyC-Sharp\MainMethod\MainMethod\obj\Debug\MainMethod.csproj.SuggestedBindingRedirects.cache
+C:\Users\tinam\OneDrive\Documents\GitHub\TechAcademyC-Sharp\MainMethod\MainMethod\obj\Debug\MainMethod.csproj.CoreCompileInputs.cache
+C:\Users\tinam\OneDrive\Documents\GitHub\TechAcademyC-Sharp\MainMethod\MainMethod\obj\Debug\MainMethod.exe
+C:\Users\tinam\OneDrive\Documents\GitHub\TechAcademyC-Sharp\MainMethod\MainMethod\obj\Debug\MainMethod.pdb
