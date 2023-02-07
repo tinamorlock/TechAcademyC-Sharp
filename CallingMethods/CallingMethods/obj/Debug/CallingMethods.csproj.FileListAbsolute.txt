@@ -1,0 +1,8 @@
+C:\Users\tinam\OneDrive\Documents\GitHub\TechAcademyC-Sharp\CallingMethods\CallingMethods\bin\Debug\CallingMethods.exe.config
+C:\Users\tinam\OneDrive\Documents\GitHub\TechAcademyC-Sharp\CallingMethods\CallingMethods\bin\Debug\CallingMethods.exe
+C:\Users\tinam\OneDrive\Documents\GitHub\TechAcademyC-Sharp\CallingMethods\CallingMethods\bin\Debug\CallingMethods.pdb
+C:\Users\tinam\OneDrive\Documents\GitHub\TechAcademyC-Sharp\CallingMethods\CallingMethods\obj\Debug\CallingMethods.csproj.AssemblyReference.cache
+C:\Users\tinam\OneDrive\Documents\GitHub\TechAcademyC-Sharp\CallingMethods\CallingMethods\obj\Debug\CallingMethods.csproj.SuggestedBindingRedirects.cache
+C:\Users\tinam\OneDrive\Documents\GitHub\TechAcademyC-Sharp\CallingMethods\CallingMethods\obj\Debug\CallingMethods.csproj.CoreCompileInputs.cache
+C:\Users\tinam\OneDrive\Documents\GitHub\TechAcademyC-Sharp\CallingMethods\CallingMethods\obj\Debug\CallingMethods.exe
+C:\Users\tinam\OneDrive\Documents\GitHub\TechAcademyC-Sharp\CallingMethods\CallingMethods\obj\Debug\CallingMethods.pdb
