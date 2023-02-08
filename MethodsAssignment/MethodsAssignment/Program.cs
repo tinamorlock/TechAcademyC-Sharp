@@ -33,7 +33,7 @@ namespace MethodsAssignment
 
             // uses output parameter
 
-            int x = 100;            int xTemp = x;
+            int x = 100;            int xTemp = x;
             doMath.DividesTen(xTemp, out x);
             Console.WriteLine(xTemp + " divided by 10 equals: {0}", x);
             Console.ReadLine();
