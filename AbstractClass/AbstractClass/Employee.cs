@@ -8,7 +8,7 @@ namespace AbstractClass
 {
     // inherits Person class
 
-    public class Employee : Person
+    public class Employee : Person, IQuittable
     {
         // overrides abstract method from Person
 
@@ -17,6 +17,14 @@ namespace AbstractClass
             // prints name to the console
 
             Console.WriteLine("Name: " + firstName + " " + lastName);
+            Console.ReadLine();
+        }
+
+        // implementing method from interface
+
+        public void Quit()
+        {
+            Console.WriteLine("An employee has just quit their job.\nPlease schedule an exit interview with them at your convenience.");
             Console.ReadLine();
         }
     }

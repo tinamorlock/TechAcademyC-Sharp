@@ -22,6 +22,11 @@ namespace AbstractClass
             // prints newEmp data to console
 
             newEmp.SayName();
+
+            // executes interface method with new instance of Employee
+
+            IQuittable empQuits = new Employee();
+            empQuits.Quit();
         }
     }
 }
