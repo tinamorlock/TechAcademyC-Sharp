@@ -10,6 +10,8 @@ namespace AbstractClass
 
     public class Employee : Person, IQuittable
     {
+        public int Id { get; set; }
+        
         // overrides abstract method from Person
 
         public override void SayName()
@@ -27,5 +29,43 @@ namespace AbstractClass
             Console.WriteLine("An employee has just quit their job.\nPlease schedule an exit interview with them at your convenience.");
             Console.ReadLine();
         }
+
+        // overloading == operator
+        // also requires overloading !=
+        // and overriding Equals and GetHashCode
+
+        // I don't fully understand the overriding,
+        // but it's coming from errors in the compiler
+
+        public static bool operator == (Employee a, Employee b)
+        {
+            if (a.Id == b.Id)
+            {
+                return true;
+            }
+
+            else { return false; }
+        }
+
+        public static bool operator != (Employee a, Employee b)
+        {
+            if (a.Id != b.Id)
+            {
+                return false;
+            }
+            else { return true; }
+        }
+
+        
+        public override bool Equals(object o)  
+        {  
+            return true;  
+        }
+
+        
+        public override int GetHashCode()  
+        {  
+            return 0;  
+        } 
     }
 }

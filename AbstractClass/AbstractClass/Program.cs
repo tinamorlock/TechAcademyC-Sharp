@@ -10,23 +10,35 @@ namespace AbstractClass
     {
         static void Main(string[] args)
         {
-            // adding an instance of the Employee class
+            // adding two instances of Employee for comparison
 
-            Employee newEmp = new Employee();
+            Employee empOne = new Employee();
+            empOne.Id = 1;
+            empOne.firstName = "Mary";
+            empOne.lastName = "Wilson";
 
-            // setting up new object newEmp
+            Employee empTwo = new Employee();
+            empTwo.Id = 2;
+            empTwo.firstName = "Henry";
+            empTwo.lastName = "Rose";
 
-            newEmp.firstName = "Sample";
-            newEmp.lastName = "Student";
+            // usering overloaded operator for comparison
+            // when the operator is used, it will run the method
+            // from the Employee class that checks the Id numbers
 
-            // prints newEmp data to console
+            // tested with expected results
 
-            newEmp.SayName();
+            if (empOne == empTwo)
+            {
+                Console.WriteLine("These are the same employees.");
+            }
 
-            // executes interface method with new instance of Employee
+            else
+            {
+                Console.WriteLine("These are NOT the same employees.");
+            }
 
-            IQuittable empQuits = new Employee();
-            empQuits.Quit();
+            Console.ReadLine();
         }
     }
 }
