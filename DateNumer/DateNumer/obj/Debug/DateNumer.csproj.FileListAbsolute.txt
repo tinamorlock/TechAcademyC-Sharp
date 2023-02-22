@@ -1,0 +1,8 @@
+C:\Users\tinam\OneDrive\Documents\GitHub\TechAcademyC-Sharp\DateNumer\DateNumer\bin\Debug\DateNumer.exe.config
+C:\Users\tinam\OneDrive\Documents\GitHub\TechAcademyC-Sharp\DateNumer\DateNumer\bin\Debug\DateNumer.exe
+C:\Users\tinam\OneDrive\Documents\GitHub\TechAcademyC-Sharp\DateNumer\DateNumer\bin\Debug\DateNumer.pdb
+C:\Users\tinam\OneDrive\Documents\GitHub\TechAcademyC-Sharp\DateNumer\DateNumer\obj\Debug\DateNumer.csproj.AssemblyReference.cache
+C:\Users\tinam\OneDrive\Documents\GitHub\TechAcademyC-Sharp\DateNumer\DateNumer\obj\Debug\DateNumer.csproj.SuggestedBindingRedirects.cache
+C:\Users\tinam\OneDrive\Documents\GitHub\TechAcademyC-Sharp\DateNumer\DateNumer\obj\Debug\DateNumer.csproj.CoreCompileInputs.cache
+C:\Users\tinam\OneDrive\Documents\GitHub\TechAcademyC-Sharp\DateNumer\DateNumer\obj\Debug\DateNumer.exe
+C:\Users\tinam\OneDrive\Documents\GitHub\TechAcademyC-Sharp\DateNumer\DateNumer\obj\Debug\DateNumer.pdb
