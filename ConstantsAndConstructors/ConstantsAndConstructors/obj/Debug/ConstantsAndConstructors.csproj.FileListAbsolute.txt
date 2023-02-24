@@ -1,0 +1,8 @@
+C:\Users\tinam\OneDrive\Documents\GitHub\TechAcademyC-Sharp\ConstantsAndConstructors\ConstantsAndConstructors\bin\Debug\ConstantsAndConstructors.exe.config
+C:\Users\tinam\OneDrive\Documents\GitHub\TechAcademyC-Sharp\ConstantsAndConstructors\ConstantsAndConstructors\bin\Debug\ConstantsAndConstructors.exe
+C:\Users\tinam\OneDrive\Documents\GitHub\TechAcademyC-Sharp\ConstantsAndConstructors\ConstantsAndConstructors\bin\Debug\ConstantsAndConstructors.pdb
+C:\Users\tinam\OneDrive\Documents\GitHub\TechAcademyC-Sharp\ConstantsAndConstructors\ConstantsAndConstructors\obj\Debug\ConstantsAndConstructors.csproj.AssemblyReference.cache
+C:\Users\tinam\OneDrive\Documents\GitHub\TechAcademyC-Sharp\ConstantsAndConstructors\ConstantsAndConstructors\obj\Debug\ConstantsAndConstructors.csproj.SuggestedBindingRedirects.cache
+C:\Users\tinam\OneDrive\Documents\GitHub\TechAcademyC-Sharp\ConstantsAndConstructors\ConstantsAndConstructors\obj\Debug\ConstantsAndConstructors.csproj.CoreCompileInputs.cache
+C:\Users\tinam\OneDrive\Documents\GitHub\TechAcademyC-Sharp\ConstantsAndConstructors\ConstantsAndConstructors\obj\Debug\ConstantsAndConstructors.exe
+C:\Users\tinam\OneDrive\Documents\GitHub\TechAcademyC-Sharp\ConstantsAndConstructors\ConstantsAndConstructors\obj\Debug\ConstantsAndConstructors.pdb
