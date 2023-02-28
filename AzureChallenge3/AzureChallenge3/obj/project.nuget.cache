@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "gaKAFbhsuw3iDlTo9GHDUvDtP9AQbW7HEJJ2ETgeSKbNf2UZrCRzRexrvjXoT7mN1iZQjW9Pek/XqUiN8WyY4Q==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\tinam\\OneDrive\\Documents\\GitHub\\TechAcademyC-Sharp\\AzureChallenge3\\AzureChallenge3\\AzureChallenge3.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\tinam\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.14\\microsoft.windowsdesktop.app.ref.6.0.14.nupkg.sha512",
+    "C:\\Users\\tinam\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.14\\microsoft.netcore.app.ref.6.0.14.nupkg.sha512",
+    "C:\\Users\\tinam\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.14\\microsoft.aspnetcore.app.ref.6.0.14.nupkg.sha512",
+    "C:\\Users\\tinam\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.14\\microsoft.netcore.app.host.win-x64.6.0.14.nupkg.sha512"
+  ],
+  "logs": []
+}

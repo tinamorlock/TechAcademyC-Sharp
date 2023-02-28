@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\AzureChallenge3.props" />
+</Project>
