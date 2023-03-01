@@ -1,0 +1,12 @@
+C:\Users\tinam\OneDrive\Documents\GitHub\TechAcademyC-Sharp\Students\EF6CodeFirstDemo\bin\Debug\EF6CodeFirstDemo.exe.config
+C:\Users\tinam\OneDrive\Documents\GitHub\TechAcademyC-Sharp\Students\EF6CodeFirstDemo\bin\Debug\EF6CodeFirstDemo.exe
+C:\Users\tinam\OneDrive\Documents\GitHub\TechAcademyC-Sharp\Students\EF6CodeFirstDemo\bin\Debug\EF6CodeFirstDemo.pdb
+C:\Users\tinam\OneDrive\Documents\GitHub\TechAcademyC-Sharp\Students\EF6CodeFirstDemo\bin\Debug\EntityFramework.dll
+C:\Users\tinam\OneDrive\Documents\GitHub\TechAcademyC-Sharp\Students\EF6CodeFirstDemo\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\tinam\OneDrive\Documents\GitHub\TechAcademyC-Sharp\Students\EF6CodeFirstDemo\bin\Debug\EntityFramework.xml
+C:\Users\tinam\OneDrive\Documents\GitHub\TechAcademyC-Sharp\Students\EF6CodeFirstDemo\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\tinam\OneDrive\Documents\GitHub\TechAcademyC-Sharp\Students\EF6CodeFirstDemo\obj\Debug\EF6CodeFirstDemo.csproj.AssemblyReference.cache
+C:\Users\tinam\OneDrive\Documents\GitHub\TechAcademyC-Sharp\Students\EF6CodeFirstDemo\obj\Debug\EF6CodeFirstDemo.csproj.CoreCompileInputs.cache
+C:\Users\tinam\OneDrive\Documents\GitHub\TechAcademyC-Sharp\Students\EF6CodeFirstDemo\obj\Debug\EF6CodeFirstDemo.csproj.CopyComplete
+C:\Users\tinam\OneDrive\Documents\GitHub\TechAcademyC-Sharp\Students\EF6CodeFirstDemo\obj\Debug\EF6CodeFirstDemo.exe
+C:\Users\tinam\OneDrive\Documents\GitHub\TechAcademyC-Sharp\Students\EF6CodeFirstDemo\obj\Debug\EF6CodeFirstDemo.pdb
