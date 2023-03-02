@@ -1,8 +1,0 @@
-C:\Users\tinam\OneDrive\Documents\GitHub\TechAcademyC-Sharp\MethodsAssignment\MethodsAssignment\bin\Debug\MethodsAssignment.exe.config
-C:\Users\tinam\OneDrive\Documents\GitHub\TechAcademyC-Sharp\MethodsAssignment\MethodsAssignment\bin\Debug\MethodsAssignment.exe
-C:\Users\tinam\OneDrive\Documents\GitHub\TechAcademyC-Sharp\MethodsAssignment\MethodsAssignment\bin\Debug\MethodsAssignment.pdb
-C:\Users\tinam\OneDrive\Documents\GitHub\TechAcademyC-Sharp\MethodsAssignment\MethodsAssignment\obj\Debug\MethodsAssignment.csproj.AssemblyReference.cache
-C:\Users\tinam\OneDrive\Documents\GitHub\TechAcademyC-Sharp\MethodsAssignment\MethodsAssignment\obj\Debug\MethodsAssignment.csproj.SuggestedBindingRedirects.cache
-C:\Users\tinam\OneDrive\Documents\GitHub\TechAcademyC-Sharp\MethodsAssignment\MethodsAssignment\obj\Debug\MethodsAssignment.csproj.CoreCompileInputs.cache
-C:\Users\tinam\OneDrive\Documents\GitHub\TechAcademyC-Sharp\MethodsAssignment\MethodsAssignment\obj\Debug\MethodsAssignment.exe
-C:\Users\tinam\OneDrive\Documents\GitHub\TechAcademyC-Sharp\MethodsAssignment\MethodsAssignment\obj\Debug\MethodsAssignment.pdb

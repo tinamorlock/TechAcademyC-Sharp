@@ -1,8 +1,0 @@
-C:\Users\tinam\OneDrive\Documents\GitHub\TechAcademyC-Sharp\StringsAndInts\StringsAndInts\bin\Debug\StringsAndInts.exe.config
-C:\Users\tinam\OneDrive\Documents\GitHub\TechAcademyC-Sharp\StringsAndInts\StringsAndInts\bin\Debug\StringsAndInts.exe
-C:\Users\tinam\OneDrive\Documents\GitHub\TechAcademyC-Sharp\StringsAndInts\StringsAndInts\bin\Debug\StringsAndInts.pdb
-C:\Users\tinam\OneDrive\Documents\GitHub\TechAcademyC-Sharp\StringsAndInts\StringsAndInts\obj\Debug\StringsAndInts.csproj.AssemblyReference.cache
-C:\Users\tinam\OneDrive\Documents\GitHub\TechAcademyC-Sharp\StringsAndInts\StringsAndInts\obj\Debug\StringsAndInts.csproj.SuggestedBindingRedirects.cache
-C:\Users\tinam\OneDrive\Documents\GitHub\TechAcademyC-Sharp\StringsAndInts\StringsAndInts\obj\Debug\StringsAndInts.csproj.CoreCompileInputs.cache
-C:\Users\tinam\OneDrive\Documents\GitHub\TechAcademyC-Sharp\StringsAndInts\StringsAndInts\obj\Debug\StringsAndInts.exe
-C:\Users\tinam\OneDrive\Documents\GitHub\TechAcademyC-Sharp\StringsAndInts\StringsAndInts\obj\Debug\StringsAndInts.pdb

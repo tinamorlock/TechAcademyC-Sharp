@@ -2,7 +2,6 @@ C:\Users\tinam\OneDrive\Documents\GitHub\TechAcademyC-Sharp\Days\Days\bin\Debug\
 C:\Users\tinam\OneDrive\Documents\GitHub\TechAcademyC-Sharp\Days\Days\bin\Debug\Days.exe
 C:\Users\tinam\OneDrive\Documents\GitHub\TechAcademyC-Sharp\Days\Days\bin\Debug\Days.pdb
 C:\Users\tinam\OneDrive\Documents\GitHub\TechAcademyC-Sharp\Days\Days\obj\Debug\Days.csproj.AssemblyReference.cache
-C:\Users\tinam\OneDrive\Documents\GitHub\TechAcademyC-Sharp\Days\Days\obj\Debug\Days.csproj.SuggestedBindingRedirects.cache
 C:\Users\tinam\OneDrive\Documents\GitHub\TechAcademyC-Sharp\Days\Days\obj\Debug\Days.csproj.CoreCompileInputs.cache
 C:\Users\tinam\OneDrive\Documents\GitHub\TechAcademyC-Sharp\Days\Days\obj\Debug\Days.exe
 C:\Users\tinam\OneDrive\Documents\GitHub\TechAcademyC-Sharp\Days\Days\obj\Debug\Days.pdb

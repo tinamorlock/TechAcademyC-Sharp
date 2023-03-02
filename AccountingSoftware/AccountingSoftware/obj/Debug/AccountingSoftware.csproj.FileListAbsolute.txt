@@ -1,8 +1,0 @@
-C:\Users\tinam\OneDrive\Desktop\Basic_C#_Programs\AccountingSoftware\AccountingSoftware\bin\Debug\AccountingSoftware.exe.config
-C:\Users\tinam\OneDrive\Desktop\Basic_C#_Programs\AccountingSoftware\AccountingSoftware\bin\Debug\AccountingSoftware.exe
-C:\Users\tinam\OneDrive\Desktop\Basic_C#_Programs\AccountingSoftware\AccountingSoftware\bin\Debug\AccountingSoftware.pdb
-C:\Users\tinam\OneDrive\Desktop\Basic_C#_Programs\AccountingSoftware\AccountingSoftware\obj\Debug\AccountingSoftware.csproj.AssemblyReference.cache
-C:\Users\tinam\OneDrive\Desktop\Basic_C#_Programs\AccountingSoftware\AccountingSoftware\obj\Debug\AccountingSoftware.csproj.SuggestedBindingRedirects.cache
-C:\Users\tinam\OneDrive\Desktop\Basic_C#_Programs\AccountingSoftware\AccountingSoftware\obj\Debug\AccountingSoftware.csproj.CoreCompileInputs.cache
-C:\Users\tinam\OneDrive\Desktop\Basic_C#_Programs\AccountingSoftware\AccountingSoftware\obj\Debug\AccountingSoftware.exe
-C:\Users\tinam\OneDrive\Desktop\Basic_C#_Programs\AccountingSoftware\AccountingSoftware\obj\Debug\AccountingSoftware.pdb
